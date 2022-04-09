@@ -1,0 +1,3 @@
+# Intodrução ao  Django
+
+*Projeto ainda em desenvolvimento...
